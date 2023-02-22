@@ -35,4 +35,4 @@ Poder aplicar los conocimientos obtenidos sobre el Javascript y así poder crear
 
 ## 4.Link a Demo
 
-Aquí puedes visualizar mi proyecto terminado: [Calculadora]([https://calculadoratecnolochicas.netlify.app/])
+Aquí puedes visualizar mi proyecto terminado: [Calculadora](https://calculadoratecnolochicas.netlify.app/)
