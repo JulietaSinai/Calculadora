@@ -1,0 +1,25 @@
+body {
+    height: 400px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/916/647/non_2x/blank-math-template-with-math-tools-and-elements-free-vector.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 300%;
+    color: #006400;
+    margin: 90px;
+}
+
+label {
+    font-family: 'Press Start 2P', cursive;
+    color: #008000;
+    
+}
+
+button{
+    font-family: 'Press Start 2P', cursive;
+}
